@@ -13,7 +13,7 @@ export default [
     category: "Study",
     color: "red",
     items: {
-      FreeCodeCamp: 'https://www.freecodecamp.org/',
+      FreeCodeCamp: "https://www.freecodecamp.org/",
       w3s: "https://www.w3schools.com/",
       DokaGuide: "https://doka.guide/",
       MDN: "https://developer.mozilla.org/ru/",
@@ -27,7 +27,7 @@ export default [
       Twitter: "https://twitter.com",
       Leetcode: "https://leetcode.com",
       Indeed: "https://www.indeed.com/",
-      HeadHunter: "hh.ru"
+      HeadHunter: "hh.ru",
     },
   },
   {
