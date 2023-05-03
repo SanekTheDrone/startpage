@@ -10,12 +10,13 @@ export default [
     },
   },
   {
-    category: "School",
+    category: "Study",
     color: "red",
     items: {
-      Outlook: "https://outlook.office365.com/mail/inbox",
-      Canvas: "https://sit.instructure.com",
-      MyStevens: "https://login.stevens.edu/app/UserHome",
+      FreeCodeCamp: 'https://www.freecodecamp.org/',
+      w3s: "https://www.w3schools.com/",
+      DokaGuide: "https://doka.guide/",
+      MDN: "https://developer.mozilla.org/ru/",
     },
   },
   {
@@ -25,20 +26,18 @@ export default [
       Linkedin: "https://linkedin.com",
       Twitter: "https://twitter.com",
       Leetcode: "https://leetcode.com",
-      Handshake: "https://app.joinhandshake.com/stu/postings",
       Indeed: "https://www.indeed.com/",
+      HeadHunter: "hh.ru"
     },
   },
   {
     category: "Misc",
     color: "purple",
     items: {
-      Trakt: "https://trakt.tv/users/peterrauscher/lists",
       YouTube: "https://www.youtube.com/",
-      Fmovies: "https://fmovies.to/home",
-      Zoro: "https://zoro.to",
+      Kinopoisk: "https://hd.kinopoisk.ru/",
       TempMail: "https://tempmail.email/",
-      // IPTorrents: "https://iptorrents.com/t",
+      IPTorrents: "https://iptorrents.com/t",
     },
   },
 ];
