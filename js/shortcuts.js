@@ -4,7 +4,7 @@ export default [
     color: "cyan",
     items: {
       Github: "https://github.com",
-      AWS: "https://aws.amazon.com",
+      Leetcode: "https://leetcode.com",
       "Dev.to": "https://dev.to",
       Firebase: "https://console.firebase.google.com/u/0",
     },
@@ -25,9 +25,9 @@ export default [
     items: {
       Linkedin: "https://linkedin.com",
       Twitter: "https://twitter.com",
-      Leetcode: "https://leetcode.com",
       Indeed: "https://www.indeed.com/",
-      HeadHunter: "hh.ru",
+      HeadHunter: "https://hh.ru",
+      WeWorkRemotely: "https://weworkremotely.com/",
     },
   },
   {
@@ -37,7 +37,6 @@ export default [
       YouTube: "https://www.youtube.com/",
       Kinopoisk: "https://hd.kinopoisk.ru/",
       TempMail: "https://tempmail.email/",
-      IPTorrents: "https://iptorrents.com/t",
     },
   },
 ];
