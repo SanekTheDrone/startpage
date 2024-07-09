@@ -37,6 +37,7 @@ export default [
       YouTube: "https://www.youtube.com/",
       Kinopoisk: "https://hd.kinopoisk.ru/",
       TempMail: "https://tempmail.email/",
+      Reddit: "https://reddit.com",
     },
   },
 ];
